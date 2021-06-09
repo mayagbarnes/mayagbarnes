@@ -4,7 +4,7 @@
 &emsp;👩🏻‍💼&emsp;&nbsp;Investment Consultant turned Full-Stack Developer <br/>
 &emsp;📊&emsp;Interested in data analysis, investments, and disruptive technologies (like machine learning & AI) <br/>
 &emsp;🍣&emsp;Enjoys scoping out new restaurants <br/>
-&emsp;⚡️&emsp;Always up for an adventure - Suggestions welcome! (next on my list is sandboarding)<br/>
+&emsp;⚡️&emsp;Always up for an adventure (next on my list is sandboarding) - Suggestions welcome! <br/>
 &emsp;⛳️&emsp;Golfer <br/>
 &emsp;🐶&emsp;Lover of corgis - especially Kevin, my corgi <br/>
 
