@@ -1,4 +1,4 @@
-## Hi there! I'm Maya 👋🏼 😁
+# Hi there! I'm Maya 👋🏼 😁
 
 ## About Me
 &emsp;👩🏻‍💼&emsp;&nbsp;Investment Consultant turned Full-Stack Developer <br/>
