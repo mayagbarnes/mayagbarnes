@@ -1,12 +1,12 @@
 # Hi there! I'm Maya 👋🏼 😁
 
 ## About Me
-👩🏻‍💼&emsp;&nbsp;Investment Consultant turned Full-Stack Developer <br/>
-📊&emsp;Interested in data analysis, investments, and disruptive technologies (like machine learning & AI) <br/>
-🍣&emsp;Enjoys scoping out new restaurants <br/>
-⚡️&emsp;Always up for an adventure - Suggestions welcome! (next on my list is sandboarding)<br/>
-⛳️&emsp;Golfer <br/>
-🐶&emsp;Lover of corgis - especially Kevin, my corgi <br/>
+&emsp;👩🏻‍💼&emsp;&nbsp;Investment Consultant turned Full-Stack Developer <br/>
+&emsp;📊&emsp;Interested in data analysis, investments, and disruptive technologies (like machine learning & AI) <br/>
+&emsp;🍣&emsp;Enjoys scoping out new restaurants <br/>
+&emsp;⚡️&emsp;Always up for an adventure - Suggestions welcome! (next on my list is sandboarding)<br/>
+&emsp;⛳️&emsp;Golfer <br/>
+&emsp;🐶&emsp;Lover of corgis - especially Kevin, my corgi <br/>
 
 ## Get In Touch
 
@@ -16,13 +16,13 @@
 * AngelList: &emsp;&emsp;&emsp;[maya-barnes](https://angel.co/u/maya-barnes)
 
 ## Project Highlights
-### Mintee&ensp;-&ensp;[Live](https://mintee.herokuapp.com/)
-Personal finance app to manage accounts, track spending and monitor investments - inspired by Mint.com 
-* Built with Rails, React, Redux, JavaScript, & PostgreSQL. Integrates Finnhub API and Chart.js.
+### &ensp;Mintee&ensp;-&ensp;[Live](https://mintee.herokuapp.com/)
+&ensp;&ensp;💰&emsp;Personal finance app to manage accounts, track spending and monitor investments - inspired by Mint.com <br/>
+&ensp;&ensp;🛠&emsp;Built with Rails, React, Redux, JavaScript, & PostgreSQL. Integrates Finnhub API and Chart.js.
 
-### Stop Asian Hate&ensp;-&ensp;[Live](https://stop-asian-hate.herokuapp.com/)
-Interactive data visualizations of Asian American hate crimes over the past year
-* Built with Vanilla JavaScript, integrating D3.js and the OpenWeather API.
+### &ensp;Stop Asian Hate&ensp;-&ensp;[Live](https://stop-asian-hate.herokuapp.com/)
+&ensp;&ensp;🆘&emsp;Interactive data visualizations of Asian American hate crimes over the past year  <br/>
+&ensp;&ensp;🛠&emsp;Built with Vanilla JavaScript, integrating D3.js and the OpenWeather API.
 
 <!-- * Email:&emsp;maya8617@gmail.com
 * [Personal Site](https://mayabarnes.com/)
