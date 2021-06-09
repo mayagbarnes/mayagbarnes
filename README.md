@@ -1,6 +1,5 @@
 # Hi there! I'm Maya 👋🏼 😁
 
-
 ## About Me
 👩🏻‍💼&emsp;&nbsp;Investment Consultant turned Full-Stack Developer <br/>
 📊&emsp;Interested in data analysis, investments, and disruptive technologies (like machine learning & AI) <br/>
@@ -8,6 +7,13 @@
 ⚡️&emsp;Always up for an adventure - Suggestions welcome! (next on my list is sandboarding)<br/>
 ⛳️&emsp;Golfer <br/>
 🐶&emsp;Lover of corgis - especially Kevin, my corgi <br/>
+
+## Get In Touch
+
+* Email:&emsp;&emsp;&emsp;&emsp;&emsp;maya8617@gmail.com
+* Personal Site: &emsp;&nbsp;[mayabarnes.com](https://mayabarnes.com/)
+* LinkedIn: &emsp;&emsp;&ensp;&ensp;&ensp;[mayabarnes](https://www.linkedin.com/in/mayabarnes/)
+* AngelList: &emsp;&emsp;&emsp;[maya-barnes](https://angel.co/u/maya-barnes)
 
 ## Project Highlights
 ### Mintee&ensp;-&ensp;[Live](https://mintee.herokuapp.com/)
@@ -18,12 +24,6 @@ Personal finance app to manage accounts, track spending and monitor investments 
 Interactive data visualizations of Asian American hate crimes over the past year
 * Built with Vanilla JavaScript, integrating D3.js and the OpenWeather API.
 
-## Get In Touch
-
-* Email:&emsp;&emsp;&emsp;&emsp;&emsp;maya8617@gmail.com
-* Personal Site: &emsp;&nbsp;[mayabarnes.com](https://mayabarnes.com/)
-* LinkedIn: &emsp;&emsp;&ensp;&ensp;&ensp;[mayabarnes](https://www.linkedin.com/in/mayabarnes/)
-* AngelList: &emsp;&emsp;&emsp;[maya-barnes](https://angel.co/u/maya-barnes)
 <!-- * Email:&emsp;maya8617@gmail.com
 * [Personal Site](https://mayabarnes.com/)
 * [LinkedIn](https://www.linkedin.com/in/mayabarnes/)
