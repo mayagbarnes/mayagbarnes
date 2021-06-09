@@ -9,6 +9,14 @@
 ⛳️&emsp;Golfer <br/>
 🐶&emsp;Lover of corgis - especially Kevin, my corgi <br/>
 
+## Project Highlights
+### Mintee&ensp;-&ensp;[Live](https://mintee.herokuapp.com/)
+Personal finance app to manage accounts, track spending and monitor investments - inspired by Mint.com 
+* Built with Rails, React, Redux, JavaScript, & PostgreSQL. Integrates Finnhub API and Chart.js.
+
+### Stop Asian Hate&ensp;-&ensp;[Live](https://stop-asian-hate.herokuapp.com/)
+Interactive data visualizations of Asian American hate crimes over the past year
+* Built with Vanilla JavaScript, integrating D3.js and the OpenWeather API.
 
 ## Get In Touch
 
@@ -38,8 +46,7 @@ Here are some ideas to get you started:
 
 ## Projects
 ### Mintee 
-&emsp;&nbsp;[Check It Out](https://mintee.herokuapp.com/)
-* Personal Finance App to manage accounts, track spending and monitor investments - inspired by Mint.com
+Personal Finance App to manage accounts, track spending and monitor investments - inspired by Mint.com &emsp;&nbsp;[Check It Out](https://mintee.herokuapp.com/)
 * Built with Rails, React, Redux, JavaScript, & PostgreSQL. Integrates Finnhub API and Chart.js.
 
 ### Stop Asian Hate
