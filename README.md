@@ -8,13 +8,6 @@
 &emsp;⛳️&emsp;Golfer <br/>
 &emsp;🐶&emsp;Lover of corgis - especially Kevin, my corgi <br/>
 
-## Get In Touch
-
-* Email:&emsp;&emsp;&emsp;&emsp;&emsp;maya8617@gmail.com
-* Personal Site: &emsp;&nbsp;[mayabarnes.com](https://mayabarnes.com/)
-* LinkedIn: &emsp;&emsp;&ensp;&ensp;&ensp;[mayabarnes](https://www.linkedin.com/in/mayabarnes/)
-* AngelList: &emsp;&emsp;&emsp;[maya-barnes](https://angel.co/u/maya-barnes)
-
 ## Project Highlights
 ### &ensp;Mintee&ensp;-&ensp;[Live](https://mintee.herokuapp.com/)
 &ensp;&ensp;💰&emsp;Personal finance app to manage accounts, track spending and monitor investments - inspired by Mint.com <br/>
@@ -23,6 +16,14 @@
 ### &ensp;Stop Asian Hate&ensp;-&ensp;[Live](https://stop-asian-hate.herokuapp.com/)
 &ensp;&ensp;🆘&emsp;Interactive data visualizations of Asian American hate crimes over the past year  <br/>
 &ensp;&ensp;🛠&emsp;Built with Vanilla JavaScript, integrating D3.js and the OpenWeather API.
+
+## Get In Touch
+
+* Email:&emsp;&emsp;&emsp;&emsp;&emsp;maya8617@gmail.com
+* Personal Site: &emsp;&nbsp;[mayabarnes.com](https://mayabarnes.com/)
+* LinkedIn: &emsp;&emsp;&ensp;&ensp;&ensp;[mayabarnes](https://www.linkedin.com/in/mayabarnes/)
+* AngelList: &emsp;&emsp;&emsp;[maya-barnes](https://angel.co/u/maya-barnes)
+
 
 <!-- * Email:&emsp;maya8617@gmail.com
 * [Personal Site](https://mayabarnes.com/)
