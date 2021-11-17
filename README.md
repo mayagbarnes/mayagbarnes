@@ -8,6 +8,7 @@
 &emsp;⛳️&emsp;Golfer <br/>
 &emsp;🐶&emsp;Lover of corgis - especially Kevin, my corgi <br/>
 
+<!-- 
 ## Project Highlights
 ### &ensp;Mintee&ensp;-&ensp;[Live](https://mintee.herokuapp.com/)
 &ensp;&ensp;💰&emsp;Personal finance app to manage accounts, track spending and monitor investments - inspired by Mint.com <br/>
@@ -24,11 +25,7 @@
 * LinkedIn: &emsp;&emsp;&ensp;&ensp;&ensp;[mayabarnes](https://www.linkedin.com/in/mayabarnes/)
 * AngelList: &emsp;&emsp;&emsp;[maya-barnes](https://angel.co/u/maya-barnes)
 
-
-<!-- * Email:&emsp;maya8617@gmail.com
-* [Personal Site](https://mayabarnes.com/)
-* [LinkedIn](https://www.linkedin.com/in/mayabarnes/)
-* [AngelList](https://angel.co/u/maya-barnes)  -->
+-->
 
 <!--
 **mayagbarnes/mayagbarnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
